@@ -1,0 +1,224 @@
+{
+  "about-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍​Qui sommes-nous"
+    }
+  ],
+  "contact-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍‌Contact"
+    }
+  ],
+  "cta-input-placeholder-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍‍Votre meilleur email"
+    }
+  ],
+  "cta-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍﻿Pour prévisualiser les mises en page et les visuels ?"
+    }
+  ],
+  "documentation-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿​Documentation"
+    }
+  ],
+  "faq-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿‌FAQ"
+    }
+  ],
+  "features-split-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿‍Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora — Incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+    }
+  ],
+  "features-split-header-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌​﻿‌Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur"
+    }
+  ],
+  "features-split-header-title-body": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‌​﻿﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌‌​​‍​﻿‌Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis."
+    }
+  ],
+  "features-split-header-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‌​﻿﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌‌​​‍​﻿‍Un flux de travail qui fonctionne tout simplement"
+    }
+  ],
+  "features-split-subtitle-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿﻿Flux de travail ultra-rapide"
+    }
+  ],
+  "features-split-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​​Informations basées sur les données"
+    }
+  ],
+  "features-tiles-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​‌Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    }
+  ],
+  "features-tiles-header-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌​﻿‍Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur"
+    }
+  ],
+  "features-tiles-header-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌​﻿﻿Construire l’ensemble du tableau"
+    }
+  ],
+  "features-tiles-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​‍Flux de travail robuste"
+    }
+  ],
+  "footer-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿​﻿﻿​‍﻿​​‍‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌​﻿‍‍​‌﻿‍Réalisé par "
+    },
+    {
+      "type": 1,
+      "value": "authorUrl"
+    },
+    {
+      "type": 0,
+      "value": ". Tous droits réservés"
+    }
+  ],
+  "hero-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​﻿Notre modèle de page de destination fonctionne sur tous les appareils, vous n’avez donc qu’à le configurer une seule fois et obtenir de beaux résultats pour toujours."
+    }
+  ],
+  "hero-github-button-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌​Voir sur Github"
+    }
+  ],
+  "hero-start-button-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌‌Démarrer"
+    }
+  ],
+  "hero-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌‍Modèle d’atterrissage pour "
+    },
+    {
+      "type": 1,
+      "value": "spanStartups"
+    }
+  ],
+  "menu-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌﻿Menu"
+    }
+  ],
+  "sign-up-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍​S'inscrire"
+    }
+  ],
+  "support-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍‌Soutien"
+    }
+  ],
+  "testimonial-1-appname-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍‍AppNom"
+    }
+  ],
+  "testimonial-1-author-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍﻿Jean-Paul Beaulne"
+    }
+  ],
+  "testimonial-1-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿​— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    }
+  ],
+  "testimonial-2-appname-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿‌AppNom"
+    }
+  ],
+  "testimonial-2-author-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿‍Amand Ponce"
+    }
+  ],
+  "testimonial-2-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿﻿— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    }
+  ],
+  "testimonial-3-appname-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿‌​​​AppNom"
+    }
+  ],
+  "testimonial-3-author-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿‌​​‌Raoul Battier"
+    }
+  ],
+  "testimonial-3-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿‌​​‍— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    }
+  ],
+  "testimonials-header-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌‌​​Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatu"
+    }
+  ],
+  "testimonials-header-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌‌​‌Témoignages de clients"
+    }
+  ]
+}

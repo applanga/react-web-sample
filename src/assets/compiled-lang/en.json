@@ -1,0 +1,224 @@
+{
+  "about-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍​About us"
+    }
+  ],
+  "contact-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍‌Contact"
+    }
+  ],
+  "cta-input-placeholder-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍‍Your best email"
+    }
+  ],
+  "cta-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍﻿For previewing layouts and visual?"
+    }
+  ],
+  "documentation-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿​Documentation"
+    }
+  ],
+  "faq-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿‌FAQ's"
+    }
+  ],
+  "features-split-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿‍Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+  ],
+  "features-split-header-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌​﻿‌Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis."
+    }
+  ],
+  "features-split-header-title-body": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‌​﻿﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌‌​​‍​﻿‌Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis."
+    }
+  ],
+  "features-split-header-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‌​﻿﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌‌​​‍​﻿‍Workflow that just works"
+    }
+  ],
+  "features-split-subtitle-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿﻿Lightning fast workflow"
+    }
+  ],
+  "features-split-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​​Data-driven insights"
+    }
+  ],
+  "features-tiles-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​‌Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat."
+    }
+  ],
+  "features-tiles-header-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌​﻿‍Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis."
+    }
+  ],
+  "features-tiles-header-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌​﻿﻿Build up the whole picture"
+    }
+  ],
+  "features-tiles-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​‍Robust Workflow"
+    }
+  ],
+  "footer-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿​﻿﻿​‍﻿​​‍‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌​﻿‍‍​‌﻿‍Made by "
+    },
+    {
+      "type": 1,
+      "value": "authorUrl"
+    },
+    {
+      "type": 0,
+      "value": ". All right reserved"
+    }
+  ],
+  "hero-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​﻿Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever."
+    }
+  ],
+  "hero-github-button-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌​View on Github"
+    }
+  ],
+  "hero-start-button-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌‌Get started"
+    }
+  ],
+  "hero-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌‍Landing template for "
+    },
+    {
+      "type": 1,
+      "value": "spanStartups"
+    }
+  ],
+  "menu-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌﻿Menu"
+    }
+  ],
+  "sign-up-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍​Sign up"
+    }
+  ],
+  "support-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍‌Support"
+    }
+  ],
+  "testimonial-1-appname-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍‍AppName"
+    }
+  ],
+  "testimonial-1-author-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍﻿Roman Level"
+    }
+  ],
+  "testimonial-1-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿​— Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat."
+    }
+  ],
+  "testimonial-2-appname-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿‌AppName"
+    }
+  ],
+  "testimonial-2-author-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿‍Diana Rynzhuk"
+    }
+  ],
+  "testimonial-2-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿﻿— Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat."
+    }
+  ],
+  "testimonial-3-appname-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿‌​​​AppName"
+    }
+  ],
+  "testimonial-3-author-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿‌​​‌Ben Stafford"
+    }
+  ],
+  "testimonial-3-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿‌​​‍— Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat."
+    }
+  ],
+  "testimonials-header-body-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌‌​​Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare."
+    }
+  ],
+  "testimonials-header-title-text": [
+    {
+      "type": 0,
+      "value": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌‌​‌Customer testimonials"
+    }
+  ]
+}
