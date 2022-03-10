@@ -4,8 +4,7 @@
       "target": [
         {
           "file_format": "react_nested_json",
-	  "tag": "react_strings", 
-          "exclude_languages": ["en"],
+	  "tag": "react_strings",
           "path": "./lang/<language>.json"
         }
       ]
