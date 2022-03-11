@@ -1,107 +1,107 @@
 {
   "footer-text": {
-    "defaultMessage": "‌‍​‍​​﻿​﻿﻿​‍﻿​​‍‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌​﻿‍‍​‌﻿‍Réalisé par {authorUrl}. Tous droits réservés"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍​﻿﻿Réalisé par {authorUrl}. Tous droits réservés"
   },
   "about-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍​Qui sommes-nous"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​​Qui sommes-nous"
   },
   "contact-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍‌Contact"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‌Contact"
   },
   "cta-input-placeholder-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍‍Votre meilleur email"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‍Votre meilleur email"
   },
   "cta-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍‍﻿Pour prévisualiser les mises en page et les visuels ?"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​﻿Pour prévisualiser les mises en page et les visuels ?"
   },
   "documentation-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿​Documentation"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌​Documentation"
   },
   "faq-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿‌FAQ"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‌FAQ"
   },
   "features-split-body-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿‍Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora — Incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‍Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora — Incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
   },
   "features-split-subtitle-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​‍﻿﻿Flux de travail ultra-rapide"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌﻿Flux de travail ultra-rapide"
   },
   "features-split-title-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​​Informations basées sur les données"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍​Informations basées sur les données"
   },
   "features-tiles-body-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​‌Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‌Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
   },
   "features-tiles-title-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​‍Flux de travail robuste"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‍Flux de travail robuste"
   },
   "hero-body-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿​﻿Notre modèle de page de destination fonctionne sur tous les appareils, vous n’avez donc qu’à le configurer une seule fois et obtenir de beaux résultats pour toujours."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍﻿Notre modèle de page de destination fonctionne sur tous les appareils, vous n’avez donc qu’à le configurer une seule fois et obtenir de beaux résultats pour toujours."
   },
   "hero-github-button-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌​Voir sur Github"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿​Voir sur Github"
   },
   "hero-start-button-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌‌Démarrer"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‌Démarrer"
   },
   "hero-title-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌‍Modèle d’atterrissage pour {spanStartups}"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‍Modèle d’atterrissage pour {spanStartups}"
   },
   "menu-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‌﻿Menu"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿﻿Menu"
   },
   "sign-up-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍​S'inscrire"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​​S'inscrire"
   },
   "support-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍‌Soutien"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‌Soutien"
   },
   "testimonial-1-appname-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍‍AppNom"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‍AppNom"
   },
   "testimonial-1-author-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿‍﻿Jean-Paul Beaulne"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​﻿Jean-Paul Beaulne"
   },
   "testimonial-1-body-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿​— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌​— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
   },
   "testimonial-2-appname-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿‌AppNom"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‌AppNom"
   },
   "testimonial-2-author-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿‍Amand Ponce"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‍Amand Ponce"
   },
   "testimonial-2-body-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿​﻿﻿﻿— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌﻿— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
   },
   "testimonial-3-appname-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿‌​​​AppNom"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍​AppNom"
   },
   "testimonial-3-author-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿‌​​‌Raoul Battier"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‌Raoul Battier"
   },
   "testimonial-3-body-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​‌﻿‍‍‌﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌​‍﻿‌​​‍— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‍— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
   },
   "features-split-header-title-body": {
-    "defaultMessage": "‌‍​‍​​﻿‌​﻿‌‌​﻿﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌‌​​‍​﻿‌Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍﻿Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis."
   },
   "features-split-header-title-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​﻿‌‌​﻿﻿‌‌‌﻿​﻿‌‍‍‌﻿​﻿​﻿‍‍​‍‍​﻿﻿‌‌‌‌​​‍​﻿‍Un flux de travail qui fonctionne tout simplement"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿​Un flux de travail qui fonctionne tout simplement"
   },
   "features-split-header-body-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌​﻿‌Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‌Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur"
   },
   "features-tiles-header-body-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌​﻿‍Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‍Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur"
   },
   "features-tiles-header-title-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌​﻿﻿Construire l’ensemble du tableau"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿﻿Construire l’ensemble du tableau"
   },
   "testimonials-header-body-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌‌​​Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatu"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​​Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatu"
   },
   "testimonials-header-title-text": {
-    "defaultMessage": "‌‍​‍​​﻿‌​﻿‌‍‌‍﻿​﻿‍‌﻿‍​‌﻿﻿​‍‌​﻿‍‍‌﻿‍﻿﻿‌‍‌‍‍‌﻿‌‌​‌Témoignages de clients"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​‌Témoignages de clients"
   }
 }
