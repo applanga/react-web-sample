@@ -70,10 +70,11 @@
   },
   "scripts": {
     "start": "node scripts/start.js",
+	"prebuild": "npm run compile",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
-    "extract": "formatjs extract",
-    "compile": "formatjs compile"
+    "extract": "formatjs extract -- 'src/**/*.js' --ignore='**/*.test.js' --out-file lang/en.json --id-interpolation-pattern '[sha512:contenthash:base64:6]'",
+    "compile": "formatjs compile-folder --ast lang src/assets/compiled-lang"
   },
   "eslintConfig": {
     "extends": "react-app"
