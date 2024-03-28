@@ -1,0 +1,41 @@
+{
+  "footer-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍​﻿﻿Realizado por {authorUrl}. Todos los derechos reservados"
+  },
+  "about-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​​Sobre nosotros"
+  },
+  "contact-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‌Contacto"
+  },
+  "cta-input-placeholder-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‍Tu mejor correo electrónico"
+  },
+  "cta-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​﻿¿Para previsualizar diseños y visuales?"
+  },
+  "documentation-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌​Document"
+  },
+  "hero-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍﻿Nuestra plantilla de página de destino funciona en todos los dispositivos, por lo que solo tiene que configurarla una vez y obtener hermosos resultados para siempre."
+  },
+  "hero-github-button-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿​Ver en Github"
+  },
+  "hero-start-button-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‌Comenze"
+  },
+  "hero-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‍Plantilla de página de inicio para  {spanStartups}"
+  },
+  "sign-up-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​​Únete"
+  },
+  "features-split-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿​Flujo de trabajo que simplemente funciona"
+  },
+  "features-tiles-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿﻿Construir la imagen completa"
+  }
+}
