@@ -1,0 +1,107 @@
+{
+  "footer-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍​﻿﻿Erstellt von {authorUrl}. Alle Rechte vorbehalten"
+  },
+  "about-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​​Über uns"
+  },
+  "contact-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‌Kontakt"
+  },
+  "cta-input-placeholder-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‍Ihre beste E-Mail-Adresse"
+  },
+  "cta-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​﻿Für die Vorschau von Layouts und visuellen Elementen?"
+  },
+  "documentation-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌​Dokumentation"
+  },
+  "faq-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‌Häufig gestellte Fragen (FAQ's)"
+  },
+  "features-split-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‍Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  "features-split-subtitle-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌﻿Blitzschneller Workflow"
+  },
+  "features-split-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍​Datengestützte Erkenntnisse"
+  },
+  "features-tiles-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‌Wie groß oder klein Ihre Übersetzungsbedürfnisse auch sein mögen: Mit Applanga können Sie alles von schnellen bis hin zu mehrstufigen Übersetzungsworkflows sowie passenden Überprüfungsprozessen erstellen. Erstelle deinen eigenen Workflow-Status und deine eigenen Filter und nutze Nutzergruppen, um sicherzustellen, dass alle richtigen Personen auf die relevanten Inhalte zugreifen oder über Änderungen informiert werden können."
+  },
+  "features-tiles-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‍Robuster Arbeitsablauf"
+  },
+  "hero-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍﻿Unsere Landing Page-Vorlage funktioniert auf allen Geräten, sodass Sie sie nur einmal einrichten müssen und für immer schöne Ergebnisse erzielen."
+  },
+  "hero-github-button-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿​Dirk Auf Github ansehen"
+  },
+  "hero-start-button-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‌Loslegen DIRK NEWEST"
+  },
+  "hero-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‍Landing Page Test für {spanStartups}"
+  },
+  "menu-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿﻿Menü"
+  },
+  "sign-up-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​​Anmelden"
+  },
+  "support-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‌Unterstützen"
+  },
+  "testimonial-1-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‍AppName"
+  },
+  "testimonial-1-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​﻿Römische Ebene"
+  },
+  "testimonial-1-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌​— Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat."
+  },
+  "testimonial-2-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‌AppName"
+  },
+  "testimonial-2-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‍Diana Rynzhuk"
+  },
+  "testimonial-2-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌﻿— Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat."
+  },
+  "testimonial-3-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍​AppName"
+  },
+  "testimonial-3-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‌Ben Stafford"
+  },
+  "testimonial-3-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‍— Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat."
+  },
+  "features-split-header-title-body": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍﻿Egal, wie viele Benutzer Ihre App hat oder wie viele Sprachen Sie unterstützen – Applanga wurde entwickelt, um sie mit Leichtigkeit zu handhaben. Die Lösung unterstützt sogar Hunderte von Übersetzern, die gleichzeitig an deiner App arbeiten."
+  },
+  "features-split-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿​Workflow, der einfach funktioniert"
+  },
+  "features-split-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‌Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis."
+  },
+  "features-tiles-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‍Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis."
+  },
+  "features-tiles-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿﻿Bauen Sie das Gesamtbild auf"
+  },
+  "testimonials-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​​Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus – in ornare."
+  },
+  "testimonials-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​‌Kunden-Stimmen"
+  }
+}

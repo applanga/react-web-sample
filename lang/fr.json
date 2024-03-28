@@ -21,22 +21,22 @@
     "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‌FAQ"
   },
   "features-split-body-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‍Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora — Incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‍L'éditeur innovant basé sur navigateur d'Applanga vous montre le contexte dans lequel vos traductions apparaîtront, pour un meilleur contexte et une révision plus facile."
   },
   "features-split-subtitle-text": {
     "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌﻿Flux de travail ultra-rapide"
   },
   "features-split-title-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍​Informations basées sur les données"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍​Informations basées sur le données"
   },
   "features-tiles-body-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‌Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‌Quels que soient vos besoins en matière de traduction : avec Applanga, vous pouvez créer n'importe quoi, des flux de travail de traduction rapides aux flux de travail de traduction en plusieurs étapes, ainsi que des processus d'examen correspondants. Créez votre propre statut de flux de travail, vos propres filtres et exploitez les groupes d'utilisateurs pour vous assurer que toutes les bonnes personnes peuvent accéder au contenu pertinent ou être informées des modifications."
   },
   "features-tiles-title-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‍Flux de travail robuste"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‍Flux de mon travail DEMO Amadeus Feb 27"
   },
   "hero-body-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍﻿Notre modèle de page de destination fonctionne sur tous les appareils, vous n’avez donc qu’à le configurer une seule fois et obtenir de beaux résultats pour toujours."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍﻿Notre modèle de page de destination fonctionne sur tous les appareils, vous n’avez donc qu’à le configurer une seule fois et obtenir de beaux résultats."
   },
   "hero-github-button-text": {
     "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿​Voir sur Github"
@@ -45,61 +45,61 @@
     "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‌Démarrer"
   },
   "hero-title-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‍Modèle d’atterrissage pour {spanStartups}"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‍Test d’atterrissage pour {spanStartups}\n"
   },
   "menu-text": {
     "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿﻿Menu"
   },
   "sign-up-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​​S'inscrire"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​​S’enregistrer"
   },
   "support-text": {
     "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‌Soutien"
   },
   "testimonial-1-appname-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‍AppNom"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‍Directeur de la technologie"
   },
   "testimonial-1-author-text": {
     "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​﻿Jean-Paul Beaulne"
   },
   "testimonial-1-body-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌​— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌​Applanga a réussi à répondre à tous nos besoins de traduction sur nos applications Android et iOS. L’outil fonctionne très bien et son équipe est toujours là pour nous fournir une assistance pour nos applications mondiales."
   },
   "testimonial-2-appname-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‌AppNom"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‌Responsable produit informatique"
   },
   "testimonial-2-author-text": {
     "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‍Amand Ponce"
   },
   "testimonial-2-body-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌﻿— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌﻿L'ensemble de notre processus de localisation dans plus de 20 langues avec plus de 400 membres de notre équipe multilingue est géré via Applanga. Cela fonctionne très bien pour nous."
   },
   "testimonial-3-appname-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍​AppNom"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍​PDG"
   },
   "testimonial-3-author-text": {
     "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‌Raoul Battier"
   },
   "testimonial-3-body-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‍— Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‍Avec Applanga, vous pouvez configurer et gérer les flux de travail de la manière qui convient le mieux à votre organisation."
   },
   "features-split-header-title-body": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍﻿Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis."
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍﻿Quel que soit le nombre d'utilisateurs de votre application ou le nombre de langues que vous prenez en charge, Applanga est conçu pour les gérer facilement. Il prend même en charge des centaines de traducteurs travaillant simultanément sur votre application."
   },
   "features-split-header-title-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿​Un flux de travail qui fonctionne tout simplement"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿​Un flux de travail qui fonctionne simplement"
   },
   "features-split-header-body-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‌Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‌Applanga s'intègre facilement et sans que vous ayez besoin d'adapter votre application. Simplifiez les demandes de votre équipe de développement et synchronisez automatiquement tout."
   },
   "features-tiles-header-body-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‍Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‍Applanga est une suite d'outils permettant de configurer et de gérer les flux de travail de localisation pour n'importe quel logiciel dans n'importe quelle langue."
   },
   "features-tiles-header-title-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿﻿Construire l’ensemble du tableau"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿﻿Construire tableau complet"
   },
   "testimonials-header-body-text": {
-    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​​Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatu"
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​​Découvrez ce que disent nos clients sur la façon dont Applanga rationalise leur processus de localisation d’applications :"
   },
   "testimonials-header-title-text": {
     "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​‌Témoignages de clients"
