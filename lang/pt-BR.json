@@ -1,0 +1,107 @@
+{
+  "footer-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍​﻿﻿Feito por {authorUrl}. Todos os direitos reservados"
+  },
+  "about-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​​Quem somos"
+  },
+  "contact-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‌Contato"
+  },
+  "cta-input-placeholder-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‍Seu melhor e-mail"
+  },
+  "cta-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​﻿Para visualizar layouts e visuais?"
+  },
+  "documentation-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌​Documentação"
+  },
+  "faq-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‌Perguntas Frequentes"
+  },
+  "features-split-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‍O editor inovador baseado em navegador do Applanga mostra o contexto onde suas traduções aparecerão, para melhor contexto e revisão mais fácil."
+  },
+  "features-split-subtitle-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌﻿Fluxo de trabalho extremamente rápido"
+  },
+  "features-split-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍​Insights orientados por dados"
+  },
+  "features-tiles-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‌Por maior ou menor que seja a sua necessidade de tradução: Com o Applanga, você pode criar qualquer coisa, desde fluxos de trabalho de tradução rápidos a várias etapas, bem como processos de revisão correspondentes. Crie seu próprio status de fluxo de trabalho, seus próprios filtros e aproveite os grupos de usuários para garantir que todas as pessoas certas possam acessar o conteúdo relevante ou ser notificadas sobre alterações."
+  },
+  "features-tiles-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‍Fluxo de trabalho robusto"
+  },
+  "hero-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍﻿Nosso modelo de página de destino funciona em todos os dispositivos, então você só precisa configurá-lo uma vez e obter belos resultados para sempre."
+  },
+  "hero-github-button-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿​Ver no Github"
+  },
+  "hero-start-button-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‌Começar"
+  },
+  "hero-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‍Teste de aterrissagem para {spanStartups}"
+  },
+  "menu-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿﻿Menu"
+  },
+  "sign-up-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​​Inscrição"
+  },
+  "support-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‌Apoio"
+  },
+  "testimonial-1-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‍CTO"
+  },
+  "testimonial-1-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​﻿Nível Romano"
+  },
+  "testimonial-1-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌​A Applanga conseguiu atender a todas as nossas necessidades de tradução em nossos aplicativos Android e iOS. A ferramenta funciona muito bem e sua equipe está sempre lá para fornecermos suporte para nossas aplicações globais."
+  },
+  "testimonial-2-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‌Gerente de Produto TI"
+  },
+  "testimonial-2-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‍Diana Rynzhuk"
+  },
+  "testimonial-2-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌﻿Todo o nosso processo de localização em mais de 20 idiomas com mais de 400 membros em nossa equipe multilíngue é tratado via Applanga. Funciona muito bem para nós."
+  },
+  "testimonial-3-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍​CEO"
+  },
+  "testimonial-3-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‌Ben Stafford"
+  },
+  "testimonial-3-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‍Com o Applanga, você pode configurar e gerenciar fluxos de trabalho da maneira que for melhor para sua organização."
+  },
+  "features-split-header-title-body": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍﻿Não importa quantos usuários seu aplicativo tenha ou quantos idiomas você suporte, o Applanga foi projetado para lidar com eles com facilidade. Ele ainda suporta centenas de tradutores trabalhando em seu aplicativo ao mesmo tempo."
+  },
+  "features-split-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿​Fluxo de trabalho que simplesmente funciona"
+  },
+  "features-split-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‌Applanga integra-se facilmente e sem exigir que você adapte seu aplicativo. Alivie as demandas de sua equipe de desenvolvimento e mantenha tudo sincronizado automaticamente."
+  },
+  "features-tiles-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‍Applanga é um conjunto de ferramentas para configurar e gerenciar fluxos de trabalho de localização para qualquer software em qualquer idioma."
+  },
+  "features-tiles-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿﻿Construa o quadro completo"
+  },
+  "testimonials-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​​Leia o que nossos clientes dizem sobre Applanga."
+  },
+  "testimonials-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​‌Depoimentos de clientes"
+  }
+}

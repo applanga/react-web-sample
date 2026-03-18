@@ -1,0 +1,107 @@
+{
+  "footer-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍​﻿﻿Hecho por {authorUrl}. Todos los derechos reservados"
+  },
+  "about-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​​Sobre nosotros"
+  },
+  "contact-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‌Contacto"
+  },
+  "cta-input-placeholder-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‍Tu mejor correo electrónico"
+  },
+  "cta-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​﻿¿Para obtener una vista previa de los diseños y los elementos visuales?"
+  },
+  "documentation-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌​Documentación"
+  },
+  "faq-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‌PREGUNTAS FRECUENTES"
+  },
+  "features-split-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‍El innovador editor basado en navegador de GL Strings le muestra el contexto en el que aparecerán sus traducciones, para un mejor contexto y una revisión más fácil."
+  },
+  "features-split-subtitle-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌﻿Flujo de trabajo ultrarrápido"
+  },
+  "features-split-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍​Información basada en datos"
+  },
+  "features-tiles-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‌Independientemente de lo grandes o pequeñas que sean sus necesidades de traducción: Con GL Strings puede crear desde flujos de trabajo de traducción rápidos hasta de varios pasos, así como procesos de revisión coincidentes. Cree su propio estado de flujo de trabajo, sus propios filtros y aproveche los grupos de usuarios para asegurarse de que todas las personas adecuadas puedan acceder al contenido relevante o recibir notificaciones sobre los cambios."
+  },
+  "features-tiles-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‍Flujo de trabajo robusto"
+  },
+  "hero-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍﻿Nuestra plantilla de página de destino funciona en todos los dispositivos, por lo que solo tiene que configurarla una vez y obtener hermosos resultados para siempre."
+  },
+  "hero-github-button-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿​Ver en Github"
+  },
+  "hero-start-button-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‌Comenzar"
+  },
+  "hero-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‍Test Prueba de aterrizaje para {spanStartups}"
+  },
+  "menu-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿﻿Menú"
+  },
+  "sign-up-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​​Únete"
+  },
+  "support-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‌Apoyo"
+  },
+  "testimonial-1-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‍CTO"
+  },
+  "testimonial-1-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​﻿Nivel romano"
+  },
+  "testimonial-1-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌​GL Strings ha sido capaz de satisfacer con éxito todas nuestras necesidades de traducción en nuestras aplicaciones para Android e iOS. La herramienta funciona muy bien y su equipo siempre está ahí para brindarnos soporte para nuestras aplicaciones globales."
+  },
+  "testimonial-2-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‌Gerente de Producto IT"
+  },
+  "testimonial-2-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‍Diana Rynzhuk"
+  },
+  "testimonial-2-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌﻿Todo nuestro proceso de localización en más de 20 idiomas con más de 400 miembros en nuestro equipo multilingüe se gestiona a través de GL Strings. Funciona muy bien para nosotros."
+  },
+  "testimonial-3-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍​Consejero delegado"
+  },
+  "testimonial-3-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‌Ben Stafford"
+  },
+  "testimonial-3-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‍Con GL Strings, puede configurar y administrar flujos de trabajo de la manera que mejor funcione para su organización."
+  },
+  "features-split-header-title-body": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍﻿No importa cuántos usuarios tenga su aplicación o cuántos idiomas admita, GL Strings está diseñado para manejarlos con facilidad. Incluso admite cientos de traductores que trabajan en su aplicación al mismo tiempo."
+  },
+  "features-split-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿​Flujo de trabajo que simplemente funciona"
+  },
+  "features-split-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‌GL Strings se integra fácilmente y sin necesidad de adaptar su aplicación. Alivie las demandas de su equipo de desarrollo y mantenga todo sincronizado automáticamente."
+  },
+  "features-tiles-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‍GL Strings es un conjunto de herramientas para configurar y gestionar flujos de trabajo de localización para cualquier software en cualquier idioma."
+  },
+  "features-tiles-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿﻿Construye la imagen completa"
+  },
+  "testimonials-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​​Lea lo que dicen nuestros clientes sobre GL Strings."
+  },
+  "testimonials-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​‌Testimonios de clientes"
+  }
+}
