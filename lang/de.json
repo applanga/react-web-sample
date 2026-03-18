@@ -1,0 +1,107 @@
+{
+  "footer-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍​﻿﻿Hergestellt von {authorUrl}. Alles Recht vorbehalten"
+  },
+  "about-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​​Über uns"
+  },
+  "contact-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‌Kontakt"
+  },
+  "cta-input-placeholder-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​‍Ihre beste E-Mail"
+  },
+  "cta-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌​﻿Zur Vorschau von Layouts und visuellen Inhalten?"
+  },
+  "documentation-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌​Dokumentation"
+  },
+  "faq-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‌Häufig gestellte Fragen"
+  },
+  "features-split-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌‍Der innovative, browserbasierte Editor von GL Strings zeigt Ihnen den Kontext, in dem Ihre Übersetzungen erscheinen werden – für einen besseren Kontext und eine einfachere Überprüfung."
+  },
+  "features-split-subtitle-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‌﻿Blitzschneller Workflow"
+  },
+  "features-split-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍​Datengesteuerte Erkenntnisse"
+  },
+  "features-tiles-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‌Egal, ob groß oder klein, Ihre Übersetzungsanforderungen: Mit GL Strings können Sie alles von schnellen bis zu mehrstufigen Übersetzungsworkflows und passenden Überprüfungsprozessen erstellen. Erstelle deinen eigenen Workflow-Status und deine eigenen Filter und nutze Nutzergruppen, um sicherzustellen, dass alle richtigen Personen auf die relevanten Inhalte zugreifen oder über Änderungen informiert werden können."
+  },
+  "features-tiles-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍‍Robuster Workflow"
+  },
+  "hero-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌‍﻿Unsere Landingpage-Vorlage funktioniert auf allen Geräten, sodass du sie nur einmal einrichten musst und für immer schöne Ergebnisse erzielen kannst."
+  },
+  "hero-github-button-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿​Auf Github anzeigen"
+  },
+  "hero-start-button-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‌Erste Schritte"
+  },
+  "hero-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿‍Landetest für {spanStartups}"
+  },
+  "menu-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‌﻿﻿Menü"
+  },
+  "sign-up-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​​Anmelden"
+  },
+  "support-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‌Unterstützung"
+  },
+  "testimonial-1-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​‍CTO"
+  },
+  "testimonial-1-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍​﻿Römische Ebene"
+  },
+  "testimonial-1-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌​GL Strings konnte erfolgreich alle unsere Übersetzungsanforderungen in unseren Android- und iOS-Apps erfüllen. Das Tool funktioniert großartig und sein Team ist immer für uns da, um Unterstützung für unsere globalen Anwendungen zu bieten."
+  },
+  "testimonial-2-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‌Produktmanager IT"
+  },
+  "testimonial-2-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌‍Diana Rynzhuk"
+  },
+  "testimonial-2-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‌﻿Unser gesamter Lokalisierungsprozess in über 20 Sprachen mit mehr als 400 Mitgliedern in unserem mehrsprachigen Team wird über GL Strings abgewickelt. Es funktioniert großartig für uns."
+  },
+  "testimonial-3-appname-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍​CEO"
+  },
+  "testimonial-3-author-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‌Ben Stafford"
+  },
+  "testimonial-3-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍‍Mit GL Strings kannst du Workflows auf die für dein Unternehmen am besten geeignete Weise einrichten und verwalten."
+  },
+  "features-split-header-title-body": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍‍﻿Ganz gleich, wie viele Benutzer Ihre App hat oder wie viele Sprachen Sie unterstützen – GL Strings wurde entwickelt, um sie mit Leichtigkeit zu handhaben. Die Lösung unterstützt sogar Hunderte von Übersetzern, die gleichzeitig an deiner App arbeiten."
+  },
+  "features-split-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿​Workflow, der einfach funktioniert"
+  },
+  "features-split-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‌GL Strings lässt sich einfach integrieren, ohne dass du deine App anpassen musst. Erleichtere die Anforderungen an dein Entwicklungsteam und halte automatisch alles auf dem Laufenden."
+  },
+  "features-tiles-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿‍GL Strings ist eine Suite von Tools zur Einrichtung und Verwaltung von Lokalisierungsworkflows für jede Software in jeder Sprache."
+  },
+  "features-tiles-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍‍﻿﻿Bauen Sie das Gesamtbild auf"
+  },
+  "testimonials-header-body-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​​Lesen Sie, was unsere Kunden über GL Strings sagen."
+  },
+  "testimonials-header-title-text": {
+    "defaultMessage": "‌‍​‍​‍‍‍‍​‍​﻿‍‌﻿​﻿​‍﻿​﻿﻿‍﻿​﻿​​﻿‍‍​​‌‍‌﻿​‌﻿​​‍﻿​‌Erfahrungsberichte von Kunden"
+  }
+}
